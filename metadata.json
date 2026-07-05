@@ -1,0 +1,6 @@
+{
+  "name": "TremorLens",
+  "description": "An interactive, stabilized reader and therapeutic exercise manager designed for people living with hand tremors.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
